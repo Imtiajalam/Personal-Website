@@ -1,0 +1,110 @@
+body{
+    margin: 0px;
+    font-family: 'Heebo', sans-serif;
+
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: deeppink;
+
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url(images/header-bg.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.hire-link{
+    text-decoration: none;
+    background-color: deeppink;
+    padding: 15px 25px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.biography-area{
+    background-image: url("images/biography-bg.png");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: right;
+    text-align: center;
+
+}
+.cv-link{
+    text-decoration: none;
+    background-color: deeppink;
+    padding: 15px 25px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.latestwork-area{
+    padding-top: 150px;
+    font-size: 25px;
+    text-align: center;
+}
+.images-design{
+    height: 500px;
+    width: 30%;
+    padding-right: 1.5%;
+    padding-left: 1.5%;
+    float: left;
+}
+.images-design img{
+    width: 100%;
+}
+
+.client-space{
+    height: 500px;
+    text-align: center;
+    background-image: url(images/footer-bg.png);
+    background-position: center;
+  }
+  .client-title{
+      text-align: center;
+    margin-top: 100px;
+    margin-bottom: 55px;
+  }
+  .client-name{
+    width: 20%;
+    margin: auto;
+  }
+  .client-name h5{
+    font-weight: 600;
+  }
+  .client-name p{
+    color: #707070;
+    margin-top: -23px;
+  }
+  .client-say{
+    width:30% ;
+    margin: auto;
+  }
+  .client-say p{
+    margin-top: 30px;
+    font-size: 13px;
+  }
+  .contact{
+    width: 40%;
+    margin: auto;
+    background: linear-gradient(90deg, rgba(236,79,143,1) 38%, rgba(236,79,143,1) 100%, rgba(237,75,114,1) 100%);
+    color: #ffffff;
+    padding: 6px 30px;
+    border-radius: 10px;
+  }
+  #copyright{
+    font-size: 12px;
+    margin-bottom: 30px;
+    color: dimgray;
+}
